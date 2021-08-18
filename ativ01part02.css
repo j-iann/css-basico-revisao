@@ -1,0 +1,37 @@
+#ogedei-nome {
+	color: darkcyan;
+	background-color: lightgrey;
+}
+
+#kublai-nome {
+	color: pink;
+	background-color: darkred;
+}
+
+#temur-nome {
+	color: salmon;
+	background-color: linen;
+}
+
+h1 {
+	text-align: right;
+}
+
+table {
+	margin: auto;
+}
+
+#ogedei-data {
+	background-color: mediumpurple;
+	font-weight: bold;
+}
+
+#kublai-data {
+	background-color: mistyrose;
+	font-weight: bold;
+}
+
+#temur-data {
+	background-color: powderblue;
+	font-weight: bold;
+}

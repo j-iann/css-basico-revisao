@@ -1,0 +1,44 @@
+#primeira {
+	background-color: red;
+	border: 4px solid green;
+	height: 80px;
+}
+
+#segunda {
+	background-color: white;
+	border: 1px solid;
+	height: 80px;
+}
+
+#terceira {
+	background-color: dodgerblue;
+	border: 1px solid;
+	height: 80px;
+}
+
+#quarta {
+	background-color: gold;
+	border: 4px solid darkgreen;
+	height: 80px;
+	font-size: 26px;
+}
+
+#item-1 {
+	color: green;
+	text-decoration: underline;
+}
+
+#item-2 {
+	color: maroon;
+	text-decoration: underline;
+}
+
+#item-3 {
+	color: yellow;
+	text-decoration: underline;
+}
+
+
+* {
+	
+}

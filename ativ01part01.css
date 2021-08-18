@@ -1,0 +1,15 @@
+a {
+	text-decoration: underline;
+}
+
+p > strong {
+	color: red;
+}
+
+.destaque {
+	background-color: lemonchiffon;
+}
+
+#unico {
+	font-weight: bold;
+}
